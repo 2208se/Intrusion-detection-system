@@ -9,7 +9,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-red?logo=streamlit)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A production-ready, fully decoupled **two-layer intrusion detection system** for the [SoukDZ](https://github.com/kiouaz/soukdz-frontend) C2C fashion marketplace — combining **network traffic analysis** (Layer 1) and **application behavioral analysis** (Layer 2) through a weighted cross-layer correlation engine, with full **SHAP per-alert explainability** in a real-time Streamlit dashboard.
+A production-ready, fully decoupled **two-layer intrusion detection system** for the [SoukDZ](https://github.com/kiouaz/soukdz-frontend) C2C fashion marketplace — combining **network  traffic analysis** (Layer 1) and **application behavioral analysis** (Layer 2) through a weighted cross-layer correlation engine, with full **SHAP per-alert explainability** in a real-time Streamlit dashboard.
 
 ---
 
